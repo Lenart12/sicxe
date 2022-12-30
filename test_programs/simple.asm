@@ -1,0 +1,4 @@
+	LDA	1
+	LDA	2
+	LDA	3
+	BYTE	X'a1a2a3'

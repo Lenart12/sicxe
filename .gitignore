@@ -1,0 +1,7 @@
+cmake-build-debug
+**/*.obj
+**/*.lst
+**/*.log
+
+.vscode
+.idea
